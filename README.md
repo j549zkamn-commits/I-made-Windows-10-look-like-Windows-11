@@ -37,6 +37,9 @@ windows10 iot enterprise 2021 ltsc
 
 # 4.概要
 
+現在共同開発や運用フィードバック用の連絡先としてDiscordサーバ－を運用しています。
+
+この開発に興味をお持ちの方は参加よろしくお願いします。
 GitHub用Discordサーバー↓
 
 https://discord.gg/xZ4jUXg52
