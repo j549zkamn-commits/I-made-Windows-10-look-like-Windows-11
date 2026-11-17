@@ -35,3 +35,8 @@ windows10 iot enterprise 2021 ltsc
 
 <img width="1280" height="1024" alt="11-14Windows10改造メモ書き" src="https://github.com/user-attachments/assets/5ac043ff-444b-4569-b992-327f6c4209ff" />
 
+# 4.概要
+
+GitHub用Discordサーバー↓
+
+https://discord.gg/xZ4jUXg52
